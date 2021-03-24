@@ -48,7 +48,7 @@ function generateData(negX, posX) {
         data: {
             labels: dataX,
             datasets: [{
-                label: "X^2 Graph",
+                label: "X^3 Graph",
                 data: dataY,
                 borderColor: dataYcolor,
                 borderWidth: 0.7,
